@@ -1,0 +1,15 @@
+
+=INFO REPORT==== 13-Mar-2013::16:50:57 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 13-Mar-2013::16:50:57 ===
+Starting master services on cb_tutorial@asskovalev
+
+=INFO REPORT==== 13-Mar-2013::16:50:57 ===
+SSL:[]
+
+=INFO REPORT==== 13-Mar-2013::16:50:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 13-Mar-2013::16:50:57 ===
+Can't load module that resides in sticky dir

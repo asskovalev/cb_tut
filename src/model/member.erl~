@@ -1,0 +1,27 @@
+-module(member, [Id, Email, Name, PasswordHash]).
+-compile(export_all).
+-define(SECRET_STRING, "Secret string").
+
+validation_tests() ->
+    [{fun () -> length(Email) > 0 end,
+      "Email is required"},
+     {fun () -> length(Name) > 0 end,
+      "Name is required"}].
+
+session_id() ->
+    mochihex:to_hex(erlang:md5(?SECRET_STRING ++ Id)).
+
+check_password(Password) ->
+    Salt = mochihex:to_hex(erlang:md5(Name)),
+    ComputedHash = mochihex:to_hex(erlang:md5(Salt ++ Password)),
+    PasswordHash =:= ComputedHash.
+
+root_cookie(N, V) ->
+    mochiweb_cookies:cookie(N, V, [{path, "/"}]).
+    
+
+login_cookies() ->
+    UserId = root_cookie("user_id", Id),
+    SessionId = root_cookie("session_id", session_id()),
+    [UserId, SessionId].
+    

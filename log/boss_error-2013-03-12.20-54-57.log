@@ -1,0 +1,12 @@
+
+=INFO REPORT==== 12-Mar-2013::20:54:57 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 12-Mar-2013::20:54:57 ===
+Starting master services on cb_tutorial@asskovalev
+
+=INFO REPORT==== 12-Mar-2013::20:54:57 ===
+SSL:[]
+
+=INFO REPORT==== 12-Mar-2013::20:54:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....

@@ -1,0 +1,51 @@
+
+=INFO REPORT==== 13-Mar-2013::13:53:26 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 13-Mar-2013::13:53:26 ===
+Starting master services on cb_tutorial@asskovalev
+
+=ERROR REPORT==== 13-Mar-2013::13:53:26 ===
+{mochiweb_socket_server,297,{acceptor_error,killed}}
+
+=ERROR REPORT==== 13-Mar-2013::13:53:26 ===
+{mochiweb_socket_server,297,{acceptor_error,killed}}
+
+=ERROR REPORT==== 13-Mar-2013::13:53:26 ===
+** Generic server mochiweb_http terminating 
+** Last message in was {'EXIT',<0.65.0>,killed}
+** When Server state == {mochiweb_socket_server,8001,
+                            {mochiweb_http,loop,
+                                [#Fun<boss_web_controller.2.74163093>]},
+                            {local,mochiweb_http},
+                            2048,
+                            {0,0,0,0},
+                            #Port<0.5519>,false,128,0,16,false,
+                            [{ssl_imp,new}],
+                            {set,16,16,16,8,80,48,
+                                {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],
+                                 []},
+                                {{[<0.128.0>],
+                                  [<0.129.0>],
+                                  [<0.130.0>],
+                                  [],[],
+                                  [<0.197.0>],
+                                  [<0.198.0>,<0.118.0>],
+                                  [<0.199.0>,<0.119.0>],
+                                  [<0.120.0>],
+                                  [<0.121.0>],
+                                  [<0.122.0>],
+                                  [<0.123.0>],
+                                  [<0.124.0>],
+                                  [<0.125.0>],
+                                  [<0.126.0>],
+                                  [<0.127.0>]}}},
+                            undefined}
+** Reason for termination == 
+** killed
+
+=INFO REPORT==== 13-Mar-2013::13:53:26 ===
+SSL:[]
+
+=INFO REPORT==== 13-Mar-2013::13:53:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....

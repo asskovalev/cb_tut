@@ -1,0 +1,1953 @@
+
+=INFO REPORT==== 14-Mar-2013::11:24:53 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 14-Mar-2013::11:24:54 ===
+Starting master services on cb_tutorial@asskovalev
+
+=INFO REPORT==== 14-Mar-2013::11:24:54 ===
+SSL:[]
+
+=INFO REPORT==== 14-Mar-2013::11:24:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:25:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:25:53 ===
+POST /member/login [cb_tutorial] 302 77ms
+
+=INFO REPORT==== 14-Mar-2013::11:25:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:25:53 ===
+GET /greeting/live [cb_tutorial] 200 72ms
+
+=INFO REPORT==== 14-Mar-2013::11:25:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:26:27 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:26:27 ===
+POST /greeting/push [cb_tutorial] 200 74ms
+
+=INFO REPORT==== 14-Mar-2013::11:26:27 ===
+GET /greeting/pull/1363245953409404 [cb_tutorial] 200 33532ms
+
+=INFO REPORT==== 14-Mar-2013::11:26:27 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:26:30 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:26:30 ===
+GET /greeting/live [cb_tutorial] 200 76ms
+
+=INFO REPORT==== 14-Mar-2013::11:26:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:26:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:27:05 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:27:05 ===
+POST /greeting/push [cb_tutorial] 200 75ms
+
+=INFO REPORT==== 14-Mar-2013::11:27:05 ===
+GET /greeting/pull/1363245987126520 [cb_tutorial] 200 34648ms
+
+=INFO REPORT==== 14-Mar-2013::11:27:05 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:27:05 ===
+GET /greeting/pull/1363245990877436 [cb_tutorial] 200 71ms
+
+=INFO REPORT==== 14-Mar-2013::11:27:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:33 ===
+GET /greeting/live [cb_tutorial] 200 115ms
+
+=INFO REPORT==== 14-Mar-2013::11:33:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:37 ===
+POST /greeting/push [cb_tutorial] 200 78ms
+
+=INFO REPORT==== 14-Mar-2013::11:33:37 ===
+GET /greeting/pull/1363246025995970 [cb_tutorial] 200 3546ms
+
+=INFO REPORT==== 14-Mar-2013::11:33:37 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:37 ===
+GET /greeting/pull/1363246413089699 [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::11:33:59 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:33:59 ===
+POST /greeting/push [cb_tutorial] 200 69ms
+
+=INFO REPORT==== 14-Mar-2013::11:34:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:34:02 ===
+GET /greeting/live [cb_tutorial] 200 101ms
+
+=INFO REPORT==== 14-Mar-2013::11:34:02 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:34:08 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:34:08 ===
+POST /greeting/push [cb_tutorial] 200 72ms
+
+=INFO REPORT==== 14-Mar-2013::11:34:08 ===
+GET /greeting/pull/1363246442059208 [cb_tutorial] 200 6584ms
+
+=INFO REPORT==== 14-Mar-2013::11:34:25 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::11:34:25 ===
+GET /greeting/live [cb_tutorial] 200 76ms
+
+=INFO REPORT==== 14-Mar-2013::11:34:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:00:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:00:48 ===
+GET /members/list [cb_tutorial] 404 9ms
+
+=INFO REPORT==== 14-Mar-2013::12:00:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:00:55 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:00:55 ===
+GET /member/list [cb_tutorial] 500 34ms
+
+=INFO REPORT==== 14-Mar-2013::12:02:05 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:02:05 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:02:05 ===
+GET /member/list [cb_tutorial] 500 38ms
+
+=INFO REPORT==== 14-Mar-2013::12:02:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:02:41 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:02:41 ===
+GET /member/list [cb_tutorial] 500 26ms
+
+=INFO REPORT==== 14-Mar-2013::12:03:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:03:00 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:03:00 ===
+GET /member/list [cb_tutorial] 500 28ms
+
+=INFO REPORT==== 14-Mar-2013::12:03:07 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:03:07 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:03:07 ===
+GET /member/list [cb_tutorial] 500 26ms
+
+=INFO REPORT==== 14-Mar-2013::12:03:56 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:03:56 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:03:56 ===
+GET /member/list [cb_tutorial] 500 28ms
+
+=INFO REPORT==== 14-Mar-2013::12:03:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:03:58 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:03:58 ===
+GET /member/list [cb_tutorial] 500 25ms
+
+=INFO REPORT==== 14-Mar-2013::12:04:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:04:54 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:04:54 ===
+GET /member/login [cb_tutorial] 500 32ms
+
+=INFO REPORT==== 14-Mar-2013::12:05:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:05:31 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:05:31 ===
+GET /member/login [cb_tutorial] 500 37ms
+
+=INFO REPORT==== 14-Mar-2013::12:06:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:06:48 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,2},
+           {counter0,1},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,false},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1279}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:06:48 ===
+GET /member/login [cb_tutorial] 500 31ms
+
+=INFO REPORT==== 14-Mar-2013::12:07:59 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:07:59 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,true},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:07:59 ===
+GET /member/login [cb_tutorial] 500 28ms
+
+=INFO REPORT==== 14-Mar-2013::12:08:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:08:01 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,true},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:08:01 ===
+GET /member/login [cb_tutorial] 500 40ms
+
+=INFO REPORT==== 14-Mar-2013::12:09:15 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:09:15 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,2},
+           {revcounter0,1},
+           {first,true},
+           {last,false},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:09:15 ===
+GET /member/login [cb_tutorial] 500 31ms
+
+=INFO REPORT==== 14-Mar-2013::12:09:25 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:09:25 ===
+GET /member/login [cb_tutorial] 200 73ms
+
+=INFO REPORT==== 14-Mar-2013::12:09:43 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:09:43 ===
+GET /member/login [cb_tutorial] 200 32ms
+
+=INFO REPORT==== 14-Mar-2013::12:09:56 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:09:56 ===
+GET /member/login [cb_tutorial] 200 31ms
+
+=INFO REPORT==== 14-Mar-2013::12:10:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:10:51 ===
+GET /member/login [cb_tutorial] 200 283ms
+
+=INFO REPORT==== 14-Mar-2013::12:10:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:10:58 ===
+GET /member/get [cb_tutorial] 404 118ms
+
+=INFO REPORT==== 14-Mar-2013::12:11:07 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:11:07 ===
+{function_clause,
+    [{boss_json,json_data1,
+         [[{"member-1","Alice","lisunta@gmail.com"},
+           {"member-2","Kovalev","ass.kovalev@gmail.com"}],
+          ["greeting","member"],
+          []],
+         [{file,"src/boss/boss_json.erl"},{line,23}]},
+     {boss_json,json_data1,3,[{file,"src/boss/boss_json.erl"},{line,32}]},
+     {boss_json,encode,2,[{file,"src/boss/boss_json.erl"},{line,9}]},
+     {boss_web_controller,process_action_result,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,871}]},
+     {boss_web_controller,execute_action,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,802}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]},
+     {timer,tc,3,[{file,"timer.erl"},{line,194}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:11:07 ===
+GET /member/list [cb_tutorial] 500 67ms
+
+=INFO REPORT==== 14-Mar-2013::12:12:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:12:51 ===
+GET /member/list [cb_tutorial] 200 34ms
+
+=INFO REPORT==== 14-Mar-2013::12:13:03 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:13:04 ===
+GET /member/list [cb_tutorial] 200 75ms
+
+=INFO REPORT==== 14-Mar-2013::12:27:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:27:51 ===
+GET /greeting/live [cb_tutorial] 200 32ms
+
+=INFO REPORT==== 14-Mar-2013::12:28:16 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:28:17 ===
+GET /greeting/live [cb_tutorial] 200 1428ms
+
+=INFO REPORT==== 14-Mar-2013::12:28:34 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:28:34 ===
+GET /greeting/live [cb_tutorial] 200 30ms
+
+=INFO REPORT==== 14-Mar-2013::12:29:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:29:01 ===
+{undefined_variable,[{name,greeting_text},
+                     {file,"src/view/greeting/live.html"},
+                     {line,{59,16}}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:29:01 ===
+GET /greeting/live [cb_tutorial] 500 113ms
+
+=INFO REPORT==== 14-Mar-2013::12:29:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:29:41 ===
+GET /greeting/live [cb_tutorial] 200 98ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:04 ===
+GET /greeting/live [cb_tutorial] 200 109ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:06 ===
+GET /greeting/live [cb_tutorial] 200 88ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:08 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:08 ===
+GET /greeting/live [cb_tutorial] 200 80ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:08 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:08 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:10 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:11 ===
+POST /greeting/push [cb_tutorial] 200 84ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:11 ===
+GET /greeting/pull/1363249808151431 [cb_tutorial] 200 2449ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:16 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:16 ===
+POST /greeting/push [cb_tutorial] 200 74ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:24 ===
+POST /greeting/push [cb_tutorial] 200 74ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:26 ===
+GET /greeting/live [cb_tutorial] 200 77ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:42 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:30:42 ===
+POST /greeting/push [cb_tutorial] 200 71ms
+
+=INFO REPORT==== 14-Mar-2013::12:30:42 ===
+GET /greeting/pull/1363249826657386 [cb_tutorial] 200 15804ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:10 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:10 ===
+GET /greeting/live [cb_tutorial] 200 95ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:10 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:13 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:13 ===
+POST /greeting/push [cb_tutorial] 200 73ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:13 ===
+GET /greeting/pull/1363249870346131 [cb_tutorial] 200 2674ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:23 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:23 ===
+POST /greeting/push [cb_tutorial] 200 74ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:25 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:25 ===
+GET /greeting/live [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:30 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:31:30 ===
+POST /greeting/push [cb_tutorial] 200 75ms
+
+=INFO REPORT==== 14-Mar-2013::12:31:30 ===
+GET /greeting/pull/1363249885990394 [cb_tutorial] 200 4524ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:29 ===
+GET /greeting/live [cb_tutorial] 200 91ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:34 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:34 ===
+POST /greeting/push [cb_tutorial] 200 71ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:34 ===
+GET /greeting/pull/1363250129631674 [cb_tutorial] 200 5164ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:43 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:49 ===
+GET /greeting/live [cb_tutorial] 200 78ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:58 ===
+POST /greeting/push [cb_tutorial] 200 105ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:58 ===
+GET /greeting/pull/1363250134995259 [cb_tutorial] 200 8379ms
+
+=INFO REPORT==== 14-Mar-2013::12:35:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:35:58 ===
+GET /greeting/pull/1363250149537273 [cb_tutorial] 200 71ms
+
+=INFO REPORT==== 14-Mar-2013::12:36:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:22 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:22 ===
+GET /greeting/live [cb_tutorial] 200 105ms
+
+=INFO REPORT==== 14-Mar-2013::12:37:22 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:23 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+POST /greeting/push [cb_tutorial] 200 68ms
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+GET /greeting/pull/1363250158423591 [cb_tutorial] 200 10173ms
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+GET /greeting/pull/1363250242751742 [cb_tutorial] 200 67ms
+
+=INFO REPORT==== 14-Mar-2013::12:37:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:39:34 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:39:34 ===
+{function_clause,
+    [{proplists,get_value,[limit,id,all],[{file,"proplists.erl"},{line,222}]},
+     {boss_db,find,3,[{file,"src/boss_db.erl"},{line,95}]},
+     {cb_tutorial_greeting_controller,live,4,
+         [{file,
+              "/home/silence/devel/erlang/cb_tutorial/src/controller/cb_tutorial_greeting_controller.erl"},
+          {line,46}]},
+     {boss_web_controller,execute_action,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,791}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]},
+     {timer,tc,3,[{file,"timer.erl"},{line,194}]},
+     {boss_web_controller,build_dynamic_response,4,
+         [{file,"src/boss/boss_web_controller.erl"},{line,457}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:39:34 ===
+GET /greeting/live [cb_tutorial] 500 103ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:09 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:15 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:15 ===
+GET /greeting/live [cb_tutorial] 200 82ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:15 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:15 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+POST /greeting/push [cb_tutorial] 200 81ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+GET /greeting/pull/1363250253422210 [cb_tutorial] 200 5888ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+GET /greeting/pull/1363250475265306 [cb_tutorial] 200 72ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:21 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:24 ===
+GET /greeting/live [cb_tutorial] 200 79ms
+
+=INFO REPORT==== 14-Mar-2013::12:41:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:41:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:51:47 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:52:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:52:00 ===
+** Generic server boss_db_mock terminating 
+** Last message in was {find,greeting,[],all,0,id,ascending}
+** When Server state == [{{dict,18,16,16,8,80,48,
+                           {[],[],[],[],[],[],[],[],[],[],[],[],[],[],[],[]},
+                           {{[["greeting-12"|
+                               {greeting,"greeting-12","oeuoeu","member-2"}]],
+                             [["greeting-8"|
+                               {greeting,"greeting-8","ouoeuoeu","member-2"}]],
+                             [["greeting-5"|
+                               {greeting,"greeting-5",
+                                [209,132,209,139,208,178,209,132,209,139,208,
+                                 178],
+                                "member-2"}]],
+                             [],
+                             [["greeting-16"|
+                               {greeting,"greeting-16",
+                                [209,133,209,131,208,185],
+                                "member-2"}]],
+                             [["member-1"|
+                               {member,"member-1","lisunta@gmail.com",
+                                "Alice","c7c0807f26b8b9d1eaeb964444166104"}],
+                              ["greeting-13"|
+                               {greeting,"greeting-13","euoeuoeu",
+                                "member-2"}]],
+                             [["greeting-9"|
+                               {greeting,"greeting-9",".py.py.py.p",
+                                "member-2"}],
+                              ["greeting-10"|
+                               {greeting,"greeting-10","uiduiduidd",
+                                "member-2"}]],
+                             [["greeting-6"|
+                               {greeting,"greeting-6",
+                                [209,139,208,178,208,176],
+                                "member-2"}]],
+                             [["greeting-3"|
+                               {greeting,"greeting-3",
+                                [208,159,209,128,208,184,208,178,208,181,209,
+                                 130,32,208,186,208,176,208,179,208,180,208,
+                                 184,208,187,208,176],
+                                "member-2"}]],
+                             [["greeting-17"|
+                               {greeting,"greeting-17","жопа",
+                                "member-2"}]],
+                             [["member-2"|
+                               {member,"member-2","ass.kovalev@gmail.com",
+                                "Kovalev","4cf77a4b655235c578562916b7bc5e53"}],
+                              ["greeting-14"|
+                               {greeting,"greeting-14","oeuoeu","member-2"}]],
+                             [["greeting-11"|
+                               {greeting,"greeting-11","ieeuieui",
+                                "member-2"}]],
+                             [["greeting-7"|
+                               {greeting,"greeting-7","вап","member-2"}]],
+                             [["greeting-4"|
+                               {greeting,"greeting-4",
+                                [208,191,209,139,209,137,32,208,191,209,139,
+                                 209,137],
+                                "member-2"}]],
+                             [["greeting-18"|
+                               {greeting,"greeting-18","345","member-2"}]],
+                             [["greeting-15"|
+                               {greeting,"greeting-15","oeuoeu",
+                                "member-2"}]]}}},
+                          19}]
+** Reason for termination == 
+** {function_clause,
+       [{greeting,id,[{greeting,"greeting-12","oeuoeu","member-2"}],[]},
+        {boss_db_mock_controller,sortable_attribute,2,
+            [{file,"src/boss_db_mock_controller.erl"},{line,172}]},
+        {boss_db_mock_controller,'-do_find/7-fun-0-',4,
+            [{file,"src/boss_db_mock_controller.erl"},{line,102}]},
+        {lists,sort,2,[{file,"lists.erl"},{line,902}]},
+        {boss_db_mock_controller,do_find,7,
+            [{file,"src/boss_db_mock_controller.erl"},{line,101}]},
+        {boss_db_mock_controller,handle_call,3,
+            [{file,"src/boss_db_mock_controller.erl"},{line,24}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:52:00 ===
+** Generic server <0.72.0> terminating 
+** Last message in was {find,greeting,[],all,0,id,ascending,[]}
+** When Server state == {state,boss_db_adapter_mock,undefined,[],
+                               {dict,0,16,16,8,80,48,
+                                     {[],[],[],[],[],[],[],[],[],[],[],[],[],
+                                      [],[],[]},
+                                     {{[],[],[],[],[],[],[],[],[],[],[],[],[],
+                                       [],[],[]}}},
+                               false,60,db,0}
+** Reason for termination == 
+** {{function_clause,
+        [{greeting,id,[{greeting,"greeting-12","oeuoeu","member-2"}],[]},
+         {boss_db_mock_controller,sortable_attribute,2,
+             [{file,"src/boss_db_mock_controller.erl"},{line,172}]},
+         {boss_db_mock_controller,'-do_find/7-fun-0-',4,
+             [{file,"src/boss_db_mock_controller.erl"},{line,102}]},
+         {lists,sort,2,[{file,"lists.erl"},{line,902}]},
+         {boss_db_mock_controller,do_find,7,
+             [{file,"src/boss_db_mock_controller.erl"},{line,101}]},
+         {boss_db_mock_controller,handle_call,3,
+             [{file,"src/boss_db_mock_controller.erl"},{line,24}]},
+         {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+         {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+    {gen_server,call,
+        [{global,boss_db_mock},{find,greeting,[],all,0,id,ascending}]}}
+
+=ERROR REPORT==== 14-Mar-2013::12:52:00 ===
+{{{function_clause,
+      [{greeting,id,[{greeting,"greeting-12","oeuoeu","member-2"}],[]},
+       {boss_db_mock_controller,sortable_attribute,2,
+           [{file,"src/boss_db_mock_controller.erl"},{line,172}]},
+       {boss_db_mock_controller,'-do_find/7-fun-0-',4,
+           [{file,"src/boss_db_mock_controller.erl"},{line,102}]},
+       {lists,sort,2,[{file,"lists.erl"},{line,902}]},
+       {boss_db_mock_controller,do_find,7,
+           [{file,"src/boss_db_mock_controller.erl"},{line,101}]},
+       {boss_db_mock_controller,handle_call,3,
+           [{file,"src/boss_db_mock_controller.erl"},{line,24}]},
+       {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+       {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]},
+  {gen_server,call,
+      [{global,boss_db_mock},{find,greeting,[],all,0,id,ascending}]}},
+ {gen_server,call,[<0.72.0>,{find,greeting,[],all,0,id,ascending,[]},30000]}}
+
+=ERROR REPORT==== 14-Mar-2013::12:52:00 ===
+GET /greeting/live [cb_tutorial] 500 97ms
+
+=INFO REPORT==== 14-Mar-2013::12:54:30 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:54:30 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,1},
+           {revcounter0,0},
+           {first,true},
+           {last,true},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:54:30 ===
+GET /greeting/live [cb_tutorial] 500 49ms
+
+=INFO REPORT==== 14-Mar-2013::12:54:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::12:54:50 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,1},
+           {revcounter0,0},
+           {first,true},
+           {last,true},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::12:54:50 ===
+GET /greeting/live [cb_tutorial] 500 46ms
+
+=INFO REPORT==== 14-Mar-2013::12:55:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:55:41 ===
+GET /greeting/live [cb_tutorial] 302 70ms
+
+=INFO REPORT==== 14-Mar-2013::12:55:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:55:41 ===
+GET /member/login [cb_tutorial] 200 76ms
+
+=INFO REPORT==== 14-Mar-2013::12:55:44 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:55:44 ===
+POST /member/login [cb_tutorial] 200 77ms
+
+=INFO REPORT==== 14-Mar-2013::12:55:46 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:55:46 ===
+POST /member/login [cb_tutorial] 200 75ms
+
+=INFO REPORT==== 14-Mar-2013::12:55:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:55:50 ===
+POST /member/login [cb_tutorial] 200 81ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:26 ===
+POST /member/login [cb_tutorial] 302 75ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:26 ===
+GET /greeting/live [cb_tutorial] 200 85ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:29 ===
+POST /greeting/push [cb_tutorial] 200 87ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:29 ===
+GET /greeting/pull/1363251386271904 [cb_tutorial] 200 2692ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:32 ===
+POST /greeting/push [cb_tutorial] 200 78ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:32 ===
+GET /greeting/pull/1363251389180563 [cb_tutorial] 200 2534ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:32 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:37 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:37 ===
+GET /greeting/live [cb_tutorial] 200 84ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:37 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:37 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:45 ===
+GET /greeting/live [cb_tutorial] 200 100ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:47 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:47 ===
+POST /greeting/push [cb_tutorial] 200 71ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:47 ===
+GET /greeting/pull/1363251405314738 [cb_tutorial] 200 1932ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:47 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:48 ===
+POST /greeting/push [cb_tutorial] 200 72ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:48 ===
+GET /greeting/pull/1363251407462953 [cb_tutorial] 200 649ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:49 ===
+POST /greeting/push [cb_tutorial] 200 77ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:49 ===
+GET /greeting/pull/1363251408446373 [cb_tutorial] 200 536ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:51 ===
+POST /greeting/push [cb_tutorial] 200 70ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:51 ===
+GET /greeting/pull/1363251409330402 [cb_tutorial] 200 1352ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:52 ===
+POST /greeting/push [cb_tutorial] 200 76ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:52 ===
+GET /greeting/pull/1363251411052735 [cb_tutorial] 200 920ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:53 ===
+POST /greeting/push [cb_tutorial] 200 94ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:53 ===
+GET /greeting/pull/1363251412289958 [cb_tutorial] 200 708ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:54 ===
+POST /greeting/push [cb_tutorial] 200 93ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:54 ===
+GET /greeting/pull/1363251413320462 [cb_tutorial] 200 1070ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:56 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:56 ===
+POST /greeting/push [cb_tutorial] 200 208ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:56 ===
+GET /greeting/pull/1363251414711885 [cb_tutorial] 200 1482ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:56 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:57 ===
+POST /greeting/push [cb_tutorial] 200 80ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:57 ===
+GET /greeting/pull/1363251416515472 [cb_tutorial] 200 729ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:56:58 ===
+POST /greeting/push [cb_tutorial] 200 78ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:58 ===
+GET /greeting/pull/1363251417563349 [cb_tutorial] 200 870ms
+
+=INFO REPORT==== 14-Mar-2013::12:56:59 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:00 ===
+POST /greeting/push [cb_tutorial] 200 82ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:00 ===
+GET /greeting/pull/1363251418749309 [cb_tutorial] 200 1746ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:02 ===
+POST /greeting/push [cb_tutorial] 200 72ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:02 ===
+GET /greeting/pull/1363251420814487 [cb_tutorial] 200 916ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:02 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+POST /greeting/push [cb_tutorial] 200 77ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+GET /greeting/pull/1363251422061375 [cb_tutorial] 200 801ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+POST /greeting/push [cb_tutorial] 200 75ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:03 ===
+GET /greeting/pull/1363251423210948 [cb_tutorial] 200 402ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:05 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:05 ===
+GET /greeting/live [cb_tutorial] 200 88ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:05 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:36 ===
+GET /greeting/live [cb_tutorial] 200 93ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:38 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:38 ===
+POST /greeting/push [cb_tutorial] 200 78ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:38 ===
+GET /greeting/pull/1363251456245136 [cb_tutorial] 200 2522ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:39 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:40 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:40 ===
+GET /greeting/live [cb_tutorial] 200 85ms
+
+=INFO REPORT==== 14-Mar-2013::12:57:40 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::12:57:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:29 ===
+GET /greeting/live [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::13:11:30 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:30 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:34 ===
+POST /greeting/push [cb_tutorial] 200 88ms
+
+=INFO REPORT==== 14-Mar-2013::13:11:34 ===
+GET /greeting/pull/1363252289970917 [cb_tutorial] 200 3794ms
+
+=INFO REPORT==== 14-Mar-2013::13:11:34 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:36 ===
+GET /greeting/live [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::13:11:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:11:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:14:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:14:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:14:51 ===
+GET /greeting/live [cb_tutorial] 200 98ms
+
+=INFO REPORT==== 14-Mar-2013::13:14:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:14:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:14:55 ===
+POST /greeting/push [cb_tutorial] 200 91ms
+
+=INFO REPORT==== 14-Mar-2013::13:14:55 ===
+GET /greeting/pull/1363252491857205 [cb_tutorial] 200 3163ms
+
+=INFO REPORT==== 14-Mar-2013::13:14:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:46 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:46 ===
+GET /greeting/live [cb_tutorial] 200 95ms
+
+=INFO REPORT==== 14-Mar-2013::13:15:47 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:47 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:51 ===
+POST /greeting/push [cb_tutorial] 200 77ms
+
+=INFO REPORT==== 14-Mar-2013::13:15:51 ===
+GET /greeting/pull/1363252495223884 [cb_tutorial] 200 4429ms
+
+=INFO REPORT==== 14-Mar-2013::13:15:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:15:51 ===
+GET /greeting/pull/1363252546800352 [cb_tutorial] 200 70ms
+
+=INFO REPORT==== 14-Mar-2013::13:15:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:16:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:16:41 ===
+GET /greeting/live [cb_tutorial] 200 148ms
+
+=INFO REPORT==== 14-Mar-2013::13:16:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:16:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:49:19 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:49:19 ===
+GET /member/login [cb_tutorial] 200 17ms
+
+=INFO REPORT==== 14-Mar-2013::13:49:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:49:53 ===
+GET /member/login [cb_tutorial] 200 103ms
+
+=INFO REPORT==== 14-Mar-2013::13:49:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:49:55 ===
+GET /member/register [cb_tutorial] 200 116ms
+
+=INFO REPORT==== 14-Mar-2013::13:49:59 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::13:49:59 ===
+{badarg,
+ [{lists,keyfind,
+   [error,1,
+    [{"_vars",
+      [{"_lang","en"},
+       {"_session",[]},
+       {"_base_url",[]},
+       {"_before",undefined}|
+       {errors,["Passwords should be equal"]}]},
+     {"_lang","en"},
+     {"_session",[]},
+     {"_base_url",[]},
+     {"_before",undefined}|
+     {errors,["Passwords should be equal"]}]],
+   []},
+  {erlydtl_runtime,find_value,2,[{file,"src/erlydtl_runtime.erl"},{line,15}]},
+  {cb_tutorial_view_member_register_html,render_internal,2,[]},
+  {cb_tutorial_view_member_register_html,render,2,[]},
+  {boss_web_controller,render_view,6,
+   [{file,"src/boss/boss_web_controller.erl"},{line,915}]},
+  {boss_web_controller,execute_action,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,802}]},
+  {boss_web_controller,process_dynamic_request,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+  {boss_web_controller,process_request,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::13:49:59 ===
+POST /member/register [cb_tutorial] 500 101ms
+
+=INFO REPORT==== 14-Mar-2013::13:51:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:51:04 ===
+GET /member/register [cb_tutorial] 200 107ms
+
+=INFO REPORT==== 14-Mar-2013::13:51:06 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::13:51:06 ===
+{badarg,
+ [{lists,keyfind,
+   [errors,1,
+    [{"_vars",
+      [{"_lang","en"},
+       {"_session",[]},
+       {"_base_url",[]},
+       {"_before",undefined}|
+       {errors,["Passwords should be equal"]}]},
+     {"_lang","en"},
+     {"_session",[]},
+     {"_base_url",[]},
+     {"_before",undefined}|
+     {errors,["Passwords should be equal"]}]],
+   []},
+  {erlydtl_runtime,find_value,2,[{file,"src/erlydtl_runtime.erl"},{line,15}]},
+  {cb_tutorial_view_member_register_html,render_internal,2,[]},
+  {cb_tutorial_view_member_register_html,render,2,[]},
+  {boss_web_controller,render_view,6,
+   [{file,"src/boss/boss_web_controller.erl"},{line,915}]},
+  {boss_web_controller,execute_action,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,802}]},
+  {boss_web_controller,process_dynamic_request,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+  {boss_web_controller,process_request,5,
+   [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::13:51:06 ===
+POST /member/register [cb_tutorial] 500 101ms
+
+=INFO REPORT==== 14-Mar-2013::13:52:23 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:52:23 ===
+GET /member/register [cb_tutorial] 200 82ms
+
+=INFO REPORT==== 14-Mar-2013::13:52:25 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:52:25 ===
+POST /member/register [cb_tutorial] 200 110ms
+
+=INFO REPORT==== 14-Mar-2013::13:55:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:55:30 ===
+GET /member/register [cb_tutorial] 200 131ms
+
+=INFO REPORT==== 14-Mar-2013::13:55:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:55:31 ===
+POST /member/register [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:26 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:26 ===
+GET /member/register [cb_tutorial] 200 111ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:29 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:29 ===
+POST /member/register [cb_tutorial] 200 87ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:32 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:32 ===
+POST /member/register [cb_tutorial] 200 86ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:36 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:36 ===
+POST /member/register [cb_tutorial] 200 95ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:41 ===
+POST /member/register [cb_tutorial] 200 94ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:45 ===
+POST /member/register [cb_tutorial] 200 103ms
+
+=INFO REPORT==== 14-Mar-2013::13:57:55 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:57:56 ===
+POST /member/register [cb_tutorial] 200 124ms
+
+=INFO REPORT==== 14-Mar-2013::13:58:08 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::13:58:08 ===
+POST /member/register [cb_tutorial] 200 98ms
+
+=INFO REPORT==== 14-Mar-2013::13:58:23 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::13:58:23 ===
+{{case_clause,
+     {ok,{member,"member-22","v@gmail.com","Idris",
+             "0820de8101b9afc70f11ff006ad796cb"}}},
+ [{user_lib,add_member,4,
+      [{file,"/home/silence/devel/erlang/cb_tutorial/src/lib/user_lib.erl"},
+       {line,33}]},
+  {cb_tutorial_member_controller,register,3,
+      [{file,
+           "/home/silence/devel/erlang/cb_tutorial/src/controller/cb_tutorial_member_controller.erl"},
+       {line,11}]},
+  {boss_web_controller,execute_action,5,
+      [{file,"src/boss/boss_web_controller.erl"},{line,791}]},
+  {boss_web_controller,process_dynamic_request,5,
+      [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+  {boss_web_controller,process_request,5,
+      [{file,"src/boss/boss_web_controller.erl"},{line,523}]},
+  {timer,tc,3,[{file,"timer.erl"},{line,194}]},
+  {boss_web_controller,build_dynamic_response,4,
+      [{file,"src/boss/boss_web_controller.erl"},{line,457}]},
+  {mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,94}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::13:58:23 ===
+POST /member/register [cb_tutorial] 500 80ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:35 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:35 ===
+GET /member/register [cb_tutorial] 200 115ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:46 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:46 ===
+POST /member/register [cb_tutorial] 200 86ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:51 ===
+POST /member/register [cb_tutorial] 302 130ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:51 ===
+GET /greeting/live [cb_tutorial] 200 302ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:00:57 ===
+POST /greeting/push [cb_tutorial] 200 83ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:57 ===
+GET /greeting/pull/1363255251930362 [cb_tutorial] 200 5285ms
+
+=INFO REPORT==== 14-Mar-2013::14:00:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:01:01 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::14:01:02 ===
+GET /member/logout [cb_tutorial] 404 119ms
+
+=INFO REPORT==== 14-Mar-2013::14:04:16 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::14:04:16 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,1},
+           {revcounter0,0},
+           {first,true},
+           {last,true},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::14:04:16 ===
+GET /greeting/pull/1363255257478568 [cb_tutorial] 500 53ms
+
+=INFO REPORT==== 14-Mar-2013::14:04:17 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 14-Mar-2013::14:04:17 ===
+{function_clause,
+    [{boss_html_error_template,'-render_internal/2-fun-2-',
+         [enoent,
+          [{counter,1},
+           {counter0,0},
+           {revcounter,1},
+           {revcounter0,0},
+           {first,true},
+           {last,true},
+           {parentloop,undefined}]],
+         []},
+     {lists,mapfoldl,3,[{file,"lists.erl"},{line,1278}]},
+     {erlydtl_runtime,forloop,3,[{file,"src/erlydtl_runtime.erl"},{line,234}]},
+     {boss_html_error_template,render_internal,2,[]},
+     {boss_html_error_template,render,2,[]},
+     {boss_web_controller,render_errors,3,
+         [{file,"src/boss/boss_web_controller.erl"},{line,739}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]}]}
+
+=ERROR REPORT==== 14-Mar-2013::14:04:17 ===
+GET /greeting/pull/1363255257478568 [cb_tutorial] 500 53ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:44 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:44 ===
+GET /greeting/live [cb_tutorial] 200 107ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:44 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:45 ===
+GET /member/logout [cb_tutorial] 302 99ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:45 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:46 ===
+GET /greeting/live [cb_tutorial] 302 114ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:46 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:46 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:47 ===
+GET /member/login [cb_tutorial] 200 805ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:49 ===
+POST /member/login [cb_tutorial] 302 106ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:49 ===
+GET /greeting/live [cb_tutorial] 200 228ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:49 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:53 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+GET /member/logout [cb_tutorial] 302 84ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+GET /greeting/live [cb_tutorial] 302 84ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:54 ===
+GET /member/login [cb_tutorial] 200 689ms
+
+=INFO REPORT==== 14-Mar-2013::14:06:58 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:06:58 ===
+GET /member/register [cb_tutorial] 200 102ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:04 ===
+POST /member/login [cb_tutorial] 200 119ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:33 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:33 ===
+GET /member/login [cb_tutorial] 200 142ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:35 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:35 ===
+POST /member/login [cb_tutorial] 200 84ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:38 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:38 ===
+POST /member/login [cb_tutorial] 302 85ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:39 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:39 ===
+GET /greeting/live [cb_tutorial] 200 101ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:39 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:43 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:43 ===
+POST /greeting/push [cb_tutorial] 200 97ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:43 ===
+GET /greeting/pull/1363255659135603 [cb_tutorial] 200 3940ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:43 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+GET /member/logout [cb_tutorial] 302 90ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+GET /greeting/live [cb_tutorial] 302 86ms
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:07:51 ===
+GET /member/login [cb_tutorial] 200 766ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:40 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:41 ===
+POST /member/login [cb_tutorial] 302 87ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:41 ===
+GET /greeting/live [cb_tutorial] 200 173ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:41 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:48 ===
+POST /greeting/push [cb_tutorial] 200 93ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:48 ===
+GET /greeting/pull/1363255721261794 [cb_tutorial] 200 7044ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:48 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+GET /member/logout [cb_tutorial] 302 137ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+GET /greeting/live [cb_tutorial] 302 196ms
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:51 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 14-Mar-2013::14:08:52 ===
+GET /member/login [cb_tutorial] 200 668ms

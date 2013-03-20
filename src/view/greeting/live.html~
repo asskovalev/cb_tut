@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block scripts %}
+<script src="/static/script/live.js"></script>
+<script>
+  $(document).ready(function() {
+    listen("/greeting/pull/", "#message_list", {{ timestamp }});
+    $("#message_input").keypress(process_input);
+    scroll_down($("#message_list"), -1);
+  });
+</script>
+{% endblock %}
+
+{% block head %}
+<ul class="nav pull-right">
+  <li><a href='/member/view/{{ member.id }}'>{{ member.name }}</a></li>
+  <li><a href='/member/logout/{{ session_id }}'>Log out</a></li>
+</ul>
+{% endblock %}
+
+{% block content %}
+<div class="row">
+  <h3>Public Room</h3>
+  <div class="span2 well well-small">
+    <ul class="nav nav-list">
+      <li class="nav-header">Rooms</li>
+      <li class="active"><a href="#">Public</a></li>
+    </ul>
+  </div>
+  <div class="span9">
+    <div id="message_list" class="well message-list">
+      {% for greeting in greetings %}
+      <p>
+	<strong title='{{ greeting.member.email }}'>{{ greeting.member.name }}</strong>&nbsp;{{ greeting.text }}
+      </p>
+      {% endfor %}
+    </div>
+    
+    <div id="message_sender">
+      <input type="text" id="message_input"/>
+    </div>
+  </div>
+  
+</div>
+
+{% endblock %}

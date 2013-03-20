@@ -1,0 +1,42 @@
+
+=INFO REPORT==== 13-Mar-2013::17:10:24 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 13-Mar-2013::17:10:24 ===
+Starting master services on cb_tutorial@asskovalev
+
+=INFO REPORT==== 13-Mar-2013::17:10:24 ===
+SSL:[]
+
+=INFO REPORT==== 13-Mar-2013::17:10:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 13-Mar-2013::17:10:31 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 13-Mar-2013::17:10:31 ===
+GET /user/login [cb_tutorial] 200 86ms
+
+=INFO REPORT==== 13-Mar-2013::17:10:34 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=ERROR REPORT==== 13-Mar-2013::17:10:34 ===
+{function_clause,
+    [{proplists,get_value,[limit,1,all],[{file,"proplists.erl"},{line,222}]},
+     {boss_db,find,3,[{file,"src/boss_db.erl"},{line,95}]},
+     {cb_tutorial_user_controller,login,3,
+         [{file,
+              "/home/silence/devel/erlang/cb_tutorial/src/controller/cb_tutorial_user_controller.erl"},
+          {line,10}]},
+     {boss_web_controller,execute_action,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,791}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,534}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,523}]},
+     {timer,tc,3,[{file,"timer.erl"},{line,194}]},
+     {boss_web_controller,build_dynamic_response,4,
+         [{file,"src/boss/boss_web_controller.erl"},{line,457}]}]}
+
+=ERROR REPORT==== 13-Mar-2013::17:10:34 ===
+POST /user/login [cb_tutorial] 500 83ms

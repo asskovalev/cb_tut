@@ -1,0 +1,96 @@
+
+=INFO REPORT==== 20-Mar-2013::18:07:15 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 20-Mar-2013::18:07:15 ===
+Starting master services on cb_tutorial@asskovalev
+
+=INFO REPORT==== 20-Mar-2013::18:07:15 ===
+SSL:[]
+
+=INFO REPORT==== 20-Mar-2013::18:07:15 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:07:24 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:07:24 ===
+GET /member/login [cb_tutorial] 200 93ms
+
+=INFO REPORT==== 20-Mar-2013::18:08:38 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:39 ===
+GET /member/register [cb_tutorial] 200 81ms
+
+=INFO REPORT==== 20-Mar-2013::18:08:50 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:50 ===
+GET /member/login [cb_tutorial] 200 89ms
+
+=INFO REPORT==== 20-Mar-2013::18:08:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:52 ===
+POST /member/register [cb_tutorial] 302 83ms
+
+=INFO REPORT==== 20-Mar-2013::18:08:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:52 ===
+GET /greeting/live [cb_tutorial] 200 84ms
+
+=INFO REPORT==== 20-Mar-2013::18:08:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:57 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:08:57 ===
+GET /member/register [cb_tutorial] 200 93ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:00 ===
+POST /greeting/push [cb_tutorial] 200 91ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:00 ===
+GET /greeting/pull/1363788532424571 [cb_tutorial] 200 80ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:00 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:04 ===
+GET /greeting/live [cb_tutorial] 302 84ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:04 ===
+GET /member/login [cb_tutorial] 200 87ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:04 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:43 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:43 ===
+GET /member/login [cb_tutorial] 200 117ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 20-Mar-2013::18:09:52 ===
+POST /member/login [cb_tutorial] 200 79ms
+
+=INFO REPORT==== 20-Mar-2013::18:09:52 ===
+Loading routes from "/home/silence/devel/erlang/cb_tutorial/priv/cb_tutorial.routes" ....

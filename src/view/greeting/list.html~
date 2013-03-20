@@ -1,0 +1,20 @@
+<html>
+  <head>
+    <title>{% block title %}Greetings!{% endblock %}</title>
+  </head>
+  <body>
+    <h1>Messages</h1>
+    {% block body %}
+    <ul>
+      {% if greetings %}
+      {% for greeting in greetings %}
+      <li>{{ greeting.greeting_text }}</li>
+      {% endfor %}
+      {% else %}
+      <li>No greetings!</li>
+      {% endif %}
+    </ul>
+    <p><a href='{% url action="create" %}'>Add new</a>
+    {% endblock %}
+  </body>
+</html>
